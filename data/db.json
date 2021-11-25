@@ -1,0 +1,88 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "courseName": "Yura course",
+      "status": "ready",
+      "moduleName": "History module",
+      "selectModule": false
+    },
+    {
+      "id": 2,
+      "courseName": "Yura course",
+      "status": "in progress",
+      "moduleName": "Geography module",
+      "selectModule": false
+    },
+    {
+      "id": 3,
+      "courseName": "Yura course",
+      "status": "in progress",
+      "moduleName": "Algebra module",
+      "selectModule": false
+    },
+    {
+      "id": 4,
+      "courseName": "Oleg course",
+      "status": "ready",
+      "moduleName": "Biology module",
+      "selectModule": false
+    },
+    {
+      "id": 5,
+      "courseName": "Oleg course",
+      "status": "submitted",
+      "moduleName": "Geology module",
+      "selectModule": false
+    },
+    {
+      "id": 6,
+      "courseName": "Yura course",
+      "status": "ready",
+      "moduleName": "Algebra module",
+      "selectModule": false
+    },
+    {
+      "id": 7,
+      "courseName": "Yura course",
+      "status": "ready",
+      "moduleName": "Geography module",
+      "selectModule": false
+    },
+    {
+      "id": 8,
+      "courseName": "Yaroslav course",
+      "status": "submitted",
+      "moduleName": "Geography module",
+      "selectModule": false
+    },
+    {
+      "id": 9,
+      "courseName": "Olga course",
+      "status": "ready",
+      "moduleName": "Geography module",
+      "selectModule": false
+    },
+    {
+      "id": 10,
+      "courseName": "Yura course",
+      "status": "ready",
+      "moduleName": "Geography module",
+      "selectModule": false
+    },
+    {
+      "id": 11,
+      "courseName": "Yaroslav course",
+      "status": "ready",
+      "moduleName": "Geography module",
+      "selectModule": false
+    },
+    {
+      "id": 12,
+      "courseName": "Oleg course",
+      "status": "ready",
+      "moduleName": "Algebra module",
+      "selectModule": false
+    }
+  ]
+}
